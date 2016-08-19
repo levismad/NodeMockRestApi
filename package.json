@@ -1,0 +1,16 @@
+{
+  "name": "desafio01",
+  "version": "0.0.1",
+  "description": "Node app emulating apiary.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levi Esteves",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
